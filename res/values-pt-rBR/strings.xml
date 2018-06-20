@@ -16,4 +16,9 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+  <string name="browse_header">Cabeçalhos</string>
+  <string name="custom_header_image_notice">Conjunto de imagem de cabeçalho</string>
+  <string name="header_creator_label">Criador\u003a </string>
+  <string name="pick_header">Selecione cabeçalhos</string>
+</resources>

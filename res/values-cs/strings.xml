@@ -16,4 +16,9 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+  <string name="browse_header">Záhlaví</string>
+  <string name="custom_header_image_notice">Balíček pozadí záhlaví</string>
+  <string name="header_creator_label">Autor\u003a </string>
+  <string name="pick_header">Vybrat záhlaví</string>
+</resources>

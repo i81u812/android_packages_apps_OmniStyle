@@ -16,4 +16,9 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<resources></resources>
+<resources>
+  <string name="browse_header">ヘッダー</string>
+  <string name="custom_header_image_notice">ヘッダー画像を設定</string>
+  <string name="header_creator_label">製作者\u003a </string>
+  <string name="pick_header">ヘッダーの選択</string>
+</resources>
